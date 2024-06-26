@@ -1,0 +1,2 @@
+# -asynchronous-assignment
+class assignment
